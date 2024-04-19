@@ -1,7 +1,13 @@
-# Vue 3 + Vite
+# Catch-Up
 
-This template should help get you started developing with Vue 3 in Vite. The template uses Vue 3 `<script setup>` SFCs, check out the [script setup docs](https://v3.vuejs.org/api/sfc-script-setup.html#sfc-script-setup) to learn more.
+## Sumary
+News API client applications, illustrating UI Component with Material Desing, and API services integration, developer using Vue Framework, axios, and PrimeVue. It also includes internationalization support through Vue-i18n.
 
-## Recommended IDE Setup
+## Pre-requisitos 
+- Node.js
+- Vue CLI
 
-- [VS Code](https://code.visualstudio.com/) + [Vue - Official](https://marketplace.visualstudio.com/items?itemName=Vue.volar) (previously Volar) and disable Vetur
+## Dependencies
+- axios
+- prime vue
+- vue-i18n
